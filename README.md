@@ -2,4 +2,4 @@ In the project directory, run `npm i` to install dependencies, then `npm start` 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Alt text](/relative/path/to/event-image.jpg?raw=true "Card Example")
+![Alt text](public/finished-product.png?raw=true "Card Example")
